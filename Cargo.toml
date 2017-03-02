@@ -1,0 +1,6 @@
+[package]
+name = "hdc1000_monitor"
+version = "0.1.0"
+authors = ["Junya Ogasawara <oga.ivc.s27@gmail.com>"]
+
+[dependencies]
