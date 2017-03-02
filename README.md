@@ -5,3 +5,9 @@ This program monitors temperature and humidity using [HDC1000](http://akizukiden
 # Notice
 This program is created for using on RaspberryPi3.
 So I have to do cross compiling. Default build target is specified at `.cargo/config`.
+
+# ScreenShot
+If you use grafana and InfluxDB, you can create a dashboard like this.
+
+
+![Dashboard](https://raw.githubusercontent.com/0gajun/hdc1000_monitor/master/doc/screenshot.png)¬
