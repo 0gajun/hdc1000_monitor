@@ -4,3 +4,8 @@ version = "0.1.0"
 authors = ["Junya Ogasawara <oga.ivc.s27@gmail.com>"]
 
 [dependencies]
+libc = "0.2"
+hyper = "0.10"
+chrono = "0.3.0"
+log = "0.3"
+env_logger = "0.3"
